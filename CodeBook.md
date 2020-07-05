@@ -8,14 +8,14 @@
 ## Tidy Data Description
 * The tidy data set has a total of 81 Columns and 180 rows after processing it through the instructions provided in the problem statement.
 * The subjects are supposed to perform from the following activities :
-  1 WALKING
-  2 WALKING_UPSTAIRS
-  3 WALKING_DOWNSTAIRS
-  4 SITTING
-  5 STANDING
-  6 LAYING
+  > WALKING
+  > WALKING_UPSTAIRS
+  > WALKING_DOWNSTAIRS
+  > SITTING
+  > STANDING
+  > LAYING
 * The variables of the tidy data are :
-  "activities"
+		"activities"
   "subjects"
   "tBodyAcc-mean()-X"
   "tBodyAcc-mean()-Y"
