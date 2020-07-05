@@ -8,12 +8,12 @@
 ## Tidy Data Description
 * The tidy data set has a total of 81 Columns and 180 rows after processing it through the instructions provided in the problem statement.
 * The subjects are supposed to perform from the following activities :
-  > WALKING
-  > WALKING_UPSTAIRS
-  > WALKING_DOWNSTAIRS
-  > SITTING
-  > STANDING
-  > LAYING
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
 * The variables of the tidy data are :
 		"activities"
   "subjects"
